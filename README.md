@@ -1,32 +1,10 @@
----
-language:
-- zh
-- en
-license: mit
-task_categories:
-- tabular-classification
-- question-answering
-- text-retrieval
-tags:
-- gaokao
-- college-admission
-- china
-- education
-- score-ranking
-- enrollment-plan
-- admission-data
-- tabular
-size_categories:
-- 10M<n<100M
----
-
 <p align="center">
   <a href="#english"><img src="https://img.shields.io/badge/Language-English-blue?style=flat-square" alt="English"></a>
   <a href="#中文"><img src="https://img.shields.io/badge/Language-中文-red?style=flat-square" alt="中文"></a>
 </p>
 
 <p align="center">
-  <img src="images/gaokao.jpeg" alt="GaokaoCompass" width="800"/>
+  <img src="images/gaokao.jpeg" alt="GaokaoCompass" width="900"/>
 </p>
 
 <p align="center">
