@@ -1,0 +1,20 @@
+# Data files
+data/
+data-2025/
+*.csv
+*.csv.gz
+*.xlsx
+*.xls
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
