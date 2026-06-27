@@ -26,7 +26,10 @@ size_categories:
 </p>
 
 <p align="center">
-  <img src="images/gaokao.jpeg" alt="China College Admission Dataset" width="900"/>
+  <img src="images/gaokao.jpeg" alt="GaokaoCompass" width="800"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/choucisan/GaokaoCompass"><img src="https://img.shields.io/badge/GitHub-GaokaoCompass-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://huggingface.co/datasets/choucsan/Gaokao-Compass-11M"><img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Dataset-yellow?style=for-the-badge" alt="Hugging Face"></a>
   <a href="https://choucisan.github.io/collections/gaokao_compass"><img src="https://img.shields.io/badge/Blog-Post-blue?style=for-the-badge" alt="Blog"></a>
