@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://github.com/choucisan/GaokaoCompass"><img src="https://img.shields.io/badge/GitHub-GaokaoCompass-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://huggingface.co/datasets/choucsan/Gaokao-Compass-11M"><img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Dataset-yellow?style=for-the-badge" alt="Hugging Face"></a>
-  <a href="https://choucisan.github.io/collections/gaokao_compass"><img src="https://img.shields.io/badge/Blog-Post-blue?style=for-the-badge" alt="Blog"></a>
-  <a href="https://www.xiaohongshu.com/explore/"><img src="https://img.shields.io/badge/RedNote-Post-red?style=for-the-badge" alt="RedNote"></a>
+  <a href="https://choucisan.github.io/workshops/gaokao_compass"><img src="https://img.shields.io/badge/Blog-Post-blue?style=for-the-badge" alt="Blog"></a>
+  <a href="[https://www.xiaohongshu.com/explore/](https://www.xiaohongshu.com/explore/6a3f77dd0000000022018b59?xsec_token=ABtccjD-aoTlayVHzhEYj_ypPtizH3qgzpusbk3JvtepY=&xsec_source=pc_user)"><img src="https://img.shields.io/badge/RedNote-Post-red?style=for-the-badge" alt="RedNote"></a>
   <a href="https://choosealicense.com/licenses/mit"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"></a>
 </p>
 
